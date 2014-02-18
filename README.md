@@ -1,0 +1,4 @@
+StellarisWare
+=============
+
+Library of StellarisWare
